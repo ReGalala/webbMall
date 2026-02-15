@@ -8,6 +8,10 @@ The project was developed as part of the university course *DIT342 Web and Mobil
 
 
 ---
+## Teaser (MS3)
+
+![Teaser](./images/new-webmall-er.drawio.png)
+
 
 ## Tech Stack
 
@@ -79,7 +83,5 @@ Webmall demonstrates:
 - E-commerce system modelling
 
 
-## Teaser (MS3)
 
-![Teaser](./images/new-webmall-er.drawio.png)
 
