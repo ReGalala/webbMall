@@ -8,7 +8,7 @@ The project was developed as part of the university course *DIT342 Web and Mobil
 
 
 ---
-## Teaser (MS3)
+## Teaser
 
 ![Teaser](./images/new-webmall-er.drawio.png)
 
